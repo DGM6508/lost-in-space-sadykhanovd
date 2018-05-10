@@ -1,0 +1,4 @@
+Background - https://assetstore.unity.com/packages/2d/textures-materials/dynamic-space-background-lite-104606
+Asteroids - https://assetstore.unity.com/packages/3d/environments/asteroids-pack-84988
+Moving asteroids - https://www.youtube.com/watch?v=YfIOPWuUjn8
+Random movement of asteroids - https://answers.unity.com/questions/294744/constant-movement-in-a-random-direction.html
